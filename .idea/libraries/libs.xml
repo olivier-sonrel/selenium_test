@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../selenium-java-3.141.59/libs" />
+      <root url="file://C:/Program Files/Java/jre1.8.0_301/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://C:/Program Files/Java/jre1.8.0_301/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/../selenium-java-3.141.59/libs" recursive="false" />
+  </library>
+</component>
